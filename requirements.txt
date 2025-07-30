@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Geospatial plotting
+geopandas
+shapely
+fiona
+pyproj
+rtree  # Required for spatial indexing
+
+# Utilities
+tqdm
+joblib
+
+# Optional: If you're using Jupyter Notebooks
+notebook
